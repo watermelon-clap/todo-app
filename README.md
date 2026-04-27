@@ -82,7 +82,7 @@ This project is part of my learning journey in React, focusing on building real-
 
 ## 🔗 Live Demo
 
-(Add your deployed link here — e.g., Vercel or Netlify)
+[Todo app](https://todo-app-phi-vert-33.vercel.app/)
 
 ---
 
